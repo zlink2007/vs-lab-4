@@ -6,7 +6,7 @@
 #include <iostream>
 
 int main(int argc, char *argv[]) {
-    std::cout << "Hello, Vinokurov Sandal Nikolaevich!" << std::endl;
+    std::cout << "Hello, Konstantinov Vyacheslav Aleksandrovich!" << std::endl;
     return 0;
 }
 ```
